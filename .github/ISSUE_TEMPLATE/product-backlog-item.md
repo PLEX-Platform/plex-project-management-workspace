@@ -9,7 +9,12 @@ assignees: ''
 ---
 
 # Product Backlog Item
+<details>
+<summary>Product Backlog Item Explanation</summary>
+
 _A Product Backlog Item is a single element of work that exists in the product backlog. This could be a  user story, specification, bug, feature, function, requirement, enhancement, fix, etc. In more general terms, this item represents an individual task that needs to be taken care of to improve the project or fix an issue._
+
+</details>
 
 ## User Story (or specification, bug, feature, function, requirement, enhancement, fix, etc. Replace this heading with something that suits your needs)
 
