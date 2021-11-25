@@ -23,7 +23,7 @@ _A Product Backlog Item is a single element of work that exists in the product b
 ### Completion criteria
 
 #### The Code is complete when...
-- [ ] It adheres to the Angular style guide, section [_Folders-by-feature structure_](https://angular.io/guide/styleguide#folders-by-feature-structure) (For example. Replace with your own criteria defined by your Scrum team)
+- [ ] It adheres to the Angular style guide, section [_Folders-by-feature structure_](https://angular.io/guide/styleguide#folders-by-feature-structure) (This is an example, replace it with your own criteria defined by your Scrum team)
 
 ### Acceptance Criteria
 #### The Product Owner will accept this Product Backlog Item, when it meets the following expectations...
