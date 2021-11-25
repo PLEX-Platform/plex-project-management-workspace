@@ -3,7 +3,7 @@ name: Product Backlog Item
 about: Template for a Product Backlog Item. (For example, user story, specification,
   bug, feature, function, requirement, enhancement, fix, etc.)
 title: ''
-labels: ''
+labels: 'Product Backlog Item'
 assignees: ''
 
 ---
