@@ -33,6 +33,6 @@ _A Product Backlog Item is a single element of work that exists in the product b
 #### The entire Scrum Team must agree to these Acceptance Criteria by the end of the Sprint Planning meeting. Is this true?
 - [ ] Yes
 
-### Work Items
+## Work Items
 - [ ] Seed database with projects which have corresponding ids to the local docker version of the Dex API (Replace with your own)
 - [ ] ...
