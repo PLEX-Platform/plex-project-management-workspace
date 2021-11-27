@@ -5,7 +5,6 @@ about: Template for a Product Backlog Item. (For example, user story, specificat
 title: ''
 labels: 'Product Backlog Item'
 assignees: ''
-
 ---
 
 # Product Backlog Item
@@ -19,28 +18,24 @@ _A Product Backlog Item is a single element of work that exists in the product b
 ## User Story (or specification, bug, feature, function, requirement, enhancement, fix, etc. Replace this heading with something that suits your needs)
 
 ### Description
-> As a **Teacher**,
-	I want to **view the projects, which are available on the Dex platform, in the Plex application**
-	So that, **I can easily identify which projects I want to include in a playlist.** (Replace with your own description)
+_No description has been specified yet..._
 
 ## Definition of done
 
 ### Completion criteria
 
 #### The Code is complete when...
-- [ ] It adheres to the Angular style guide, section [_Folders-by-feature structure_](https://angular.io/guide/styleguide#folders-by-feature-structure) (This is an example, replace it with your own criteria defined by your Scrum team)
+- [ ] _No Completion Criterium has been specified yet..._
 
 ### Acceptance Criteria
 #### The Product Owner will accept this Product Backlog Item, when it meets the following expectations...
-- [ ] Using the docker test Dex API is enough. (We don't have to use the Dex live API)
-- [ ] Layout of Teacher project view implementation must be the same as in the wireframe
+- [ ] _No Acceptance Criterium has been specified yet..._
 
 #### The entire Scrum Team must agree to these Acceptance Criteria by the end of the Sprint Planning meeting. Is this true?
 - [ ] Yes
 
-#### The Customer (For example, Wilrik. Replace with your own Customer.) must agree to these Acceptance Criteria before development starts. Is this true?
+#### The Customer must agree to these Acceptance Criteria before development starts. Is this true?
 - [ ] Yes
 
 ## Work Items
-- [ ] Seed database with projects which have corresponding ids to the local docker version of the Dex API (Replace with your own)
-- [ ] ...
+- [ ] _No Work Itemhas been specified yet..._
